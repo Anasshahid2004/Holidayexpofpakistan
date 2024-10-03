@@ -248,6 +248,10 @@ html,body{
 
 /*.main-menu*/
 
+.ico-H{
+    margin-top: -15px;
+}
+
 /* tooggle */
 .main-menu .navbar-toggle {
     margin-top: 5px;
